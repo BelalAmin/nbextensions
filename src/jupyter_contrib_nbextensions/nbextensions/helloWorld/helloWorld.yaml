@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Compatibility: 4.x
+Name: HelloWorld
+Main: main.js
+Description: description of your extension.
+Link: readme.md
+Icon: icon.png
