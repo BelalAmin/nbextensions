@@ -399,3 +399,5 @@ Plus various CI & packaging fixes/improvements, including
 -----
 
 First release with pep-440 compatible versioning
+=======
+
